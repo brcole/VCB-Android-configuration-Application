@@ -103,9 +103,11 @@ git add app/ gradle/ build.gradle settings.gradle gradlew
 Write a clear, descriptive commit message:
 
 ```bash
-git commit -m "Initial Android project setup
+# For a simple commit
+git commit -m "Initial Android project setup"
 
-- Add Android application structure
+# For a detailed commit with description
+git commit -m "Initial Android project setup" -m "- Add Android application structure
 - Configure Gradle build system
 - Set up project dependencies
 - Add initial UI components"

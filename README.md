@@ -52,7 +52,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
 
 - Android Studio (latest stable version recommended)
 - JDK 8 or higher
-- Android SDK (API level TBD based on project requirements)
+- Android SDK (minimum API level to be determined based on project requirements)
 - Git
 
 ## Building the Project
